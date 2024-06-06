@@ -1,7 +1,8 @@
 # Thiago Leite 👋
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-<div align="left">
+
+
+<img align="right" width="150px" src="avatar01.png">
 
 Me chamo Thiago, tenho 39 anos, sou natural do Rio de Janeiro/RJ. Sou apaixonado por tecnologia e pai de 3 gatos 🐈🐈🐈.
 
@@ -14,7 +15,7 @@ Nas minhas horas livres, adoro assistir a séries e filmes para relaxar e me ent
 Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 💡
 
 </div>
-<img align="right" width="150px" src="avatar01.png">
+
 </div>
 
 ## 🧑🏻 Mais sobre Mim
@@ -31,14 +32,15 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 
 ## 🔎 O Que Você Encontrará Aqui
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; max-width: 50%;">
+
+
+<img width="160px" align="right" src="avatar03.png">
 
 - 📁 Projetos relacionados à Análise de Dados.
 - 📝 Repositórios de estudos, incluindo notebooks Jupyter e código de projetos pessoais.
 - 🧠 Documentação e recursos que encontrei úteis durante minha jornada de aprendizado.
 
-## 🛠️ Ferramentas e Tecnologias
+### 🛠️ Ferramentas e Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/-POWER%20BI-F2C811?style=for-the-badge&amp;labelColor=212121&amp;logo=powerbi">
@@ -48,7 +50,7 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
   <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&amp;labelColor=212121&amp;logo=Python&logoColor=3776AB">
 </p>
 
-## 💬 Conecte-se Comigo
+### 💬 Conecte-se Comigo
 
 - 📫 Você pode entrar em contato comigo pelo meu [e-mail](mailto:thiago.leit@hotmail.com).
 - 💼 Meu perfil no [LinkedIn](https://www.linkedin.com/in/tnleite/) para acompanhar meu progresso e projetos.
@@ -61,10 +63,6 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 <a href = "https://wa.me/+5521964105121"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&amp;labelColor=212121&amp;logo=whatsapp&logoColor=25D366" target="_blank"></a>
 <a href = "https://medium.com/@thiago.leit"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&amp;labelColor=FFFFFF&amp;logo=medium&logoColor=000000" target="_blank"></a>
 </p>
-
-</div>
-<img width="200px" src="avatar03.png">
-</div>
 
 
 ## 🚀 Projetos em Destaque
