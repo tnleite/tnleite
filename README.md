@@ -4,13 +4,13 @@
 
 <img align="right" width="150px" src="avatar01.png">
 
-Me chamo Thiago, tenho 39 anos, sou natural do Rio de Janeiro/RJ. Sou apaixonado por tecnologia e pai de 3 gatos 🐈🐈🐈.
+Me chamo Thiago, tenho 39 anos, sou natural do Rio de Janeiro/RJ, apaixonado por tecnologia e pai de 3 gatos 🐈🐈🐈.
 
-No momento, estou cursando Engenharia de Software 💻 desde agosto de 2021, mas já estou mergulhado no mundo de análise de dados desde 2023.
+No momento, estou cursando Engenharia de Software 💻 desde agosto de 2021, mas já estou mergulhado no mundo de análise de dados tem um tempo.
 
-Estou em busca de uma carreira que me proporcione maior satisfação pessoal e profissional, e foi assim que descobri minha paixão pela análise de dados 📊.
+Estou em busca de uma carreira que me proporcione maior satisfação pessoal e profissional e foi assim que descobri minha paixão pela análise de dados 📊.
 
-Nas minhas horas livres, adoro assistir a séries e filmes para relaxar e me entreter 📺, além de jogar videogames para desafiar minha mente e me divertir 🎮.
+Nas minhas horas livres adoro assistir a séries e filmes para relaxar e me entreter 📺, além de jogar videogames para desafiar minha mente e me divertir 🎮.
 
 Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 💡
 
