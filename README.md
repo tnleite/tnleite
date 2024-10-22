@@ -55,7 +55,7 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 - 📫 Você pode entrar em contato comigo pelo meu [e-mail](mailto:thiago.leit@hotmail.com).
 - 💼 Meu perfil no [LinkedIn](https://www.linkedin.com/in/tnleite/) para acompanhar meu progresso e projetos.
 - ✍🏻 Meu perfil no [Medium](https://medium.com/@thiago.leit) para ver artigos publicados.
-- 🌐 Meu [Site](https://thiagoleite.my.canva.site/) para visualizar o portfólio de projetos.
+- 🌐 Meu [Site](https://thiagoleitedata.com.br/) para visualizar o portfólio de projetos.
 
 <p align="left">
 <a href = "mailto:thiago.leit@hotmail.com"><img src="https://img.shields.io/badge/Email-DF0000?style=for-the-badge&amp;labelColor=212121&amp;logo=maildotru&logoColor=DF0000" target="_blank"></a>
