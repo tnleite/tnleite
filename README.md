@@ -2,7 +2,7 @@
 
 <img align="right" width="150px" src="avatar01.png">
 
-Me chamo Thiago, tenho 39 anos, sou natural do Rio de Janeiro/RJ, apaixonado por tecnologia e pai de 3 gatos 🐈🐈🐈.
+Me chamo Thiago, tenho 40 anos, sou natural do Rio de Janeiro/RJ, apaixonado por tecnologia e pai de 3 gatos 🐈🐈🐈.
 
 Atualmente sou aluno bolsista na trilha de Ciência de Dados do Santander Coders 2024, um processo seletivo que contou com mais de 81 mil inscritos e selecionou apenas 300 para trilhas de formação em tecnologia, em parceria com a Ada Tech. Com essa bolsa, tenho a oportunidade de me aprofundar em análise de dados, machine learning e outras áreas avançadas da tecnologia.
 
