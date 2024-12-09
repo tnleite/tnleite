@@ -32,7 +32,7 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 
 <img width="160px" align="right" src="avatar03.png">
 
-- 📁 Projetos relacionados à Análise de Dados.
+- 📁 Projetos relacionados à Ciência de Dados.
 - 📝 Repositórios de estudos, incluindo notebooks Jupyter e código de projetos pessoais.
 - 🧠 Documentação e recursos que encontrei úteis durante minha jornada de aprendizado.
 
@@ -87,6 +87,12 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 **Modelagem e Análise Preditiva para Gestão de Riscos:** Este projeto aborda a previsão de aprovação de empréstimos com foco em minimizar o risco de inadimplência. Utilizando Python, realizamos uma análise exploratória detalhada (EDA), desenvolvemos modelos preditivos avançados, como Random Forest e XGBoost, e aplicamos técnicas de ajuste de threshold para maximizar o recall da classe de inadimplentes, atingindo quase 90% de recall. O projeto fornece insights valiosos para a gestão de riscos em instituições financeiras.
 
 <a href="https://github.com/tnleite/loan-approval-prediction" target="_blank"><img src="https://img.shields.io/badge/-CLIQUE_AQUI_PARA_ACESSAR_ESSE_PROJETO-3776AB?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+### Projeto Segmentação e Predição de Clientes de Cartão de Crédito
+**Clusterização e Machine Learning para Estratégias Personalizadas:** Este projeto utilizou técnicas de aprendizado supervisionado e não supervisionado para segmentar clientes com base em seu comportamento financeiro e prever a qual segmento futuros clientes pertencem. Utilizamos K-Means para criar os clusters e Regressão Logística para a predição, gerando insights aplicáveis para campanhas de marketing direcionadas.
+
+<a href="https://github.com/tnleite/credit-card-customer-segmentation" target="_blank"><img src="https://img.shields.io/badge/-CLIQUE_AQUI_PARA_ACESSAR_ESSE_PROJETO-3776AB?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
 
 ---
 
