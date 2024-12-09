@@ -91,7 +91,7 @@ Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para t
 ### Projeto Segmentação e Predição de Clientes de Cartão de Crédito
 **Clusterização e Machine Learning para Estratégias Personalizadas:** Este projeto utilizou técnicas de aprendizado supervisionado e não supervisionado para segmentar clientes com base em seu comportamento financeiro e prever a qual segmento futuros clientes pertencem. Utilizamos K-Means para criar os clusters e Regressão Logística para a predição, gerando insights aplicáveis para campanhas de marketing direcionadas.
 
-<a href="https://github.com/tnleite/credit-card-customer-segmentation" target="_blank"><img src="https://img.shields.io/badge/-CLIQUE_AQUI_PARA_ACESSAR_ESSE_PROJETO-3776AB?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/tnleite/credit-card-customer-clustering" target="_blank"><img src="https://img.shields.io/badge/-CLIQUE_AQUI_PARA_ACESSAR_ESSE_PROJETO-3776AB?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 
 ---
